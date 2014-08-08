@@ -14,4 +14,4 @@ The page background is black and the hi lights are in what I call "zombie green.
 <br>
 Please enjoy and share this template; just don't ask me about adopting a pit bull! :)
 
-Click to view...
+
