@@ -16,6 +16,7 @@ body {
   padding-bottom: 50px;
   text-align: center;
   color: white;
+  background-size: cover;
   background-image: url('../images/baby-pits.jpg');
 }
 
